@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on improving my skill's  
   
 
-- 🌱 I’m currently learning Development Operations  
+- 🌱
   
 
 <br/>  
